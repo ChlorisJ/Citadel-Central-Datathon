@@ -5,3 +5,5 @@ Hosted by Correlation One and sponsored by Citadel LLC and Citadel Securities, C
 Our team - ⭐team 2⭐ was awarded **second place** in this datathon and won a prize fund of $2500.
 
 You can find our report here: [team_2_report.pdf](https://github.com/ChlorisJ/Citadel-Central-Datathon/files/7585336/team_2_report.pdf)
+
+Kindly refer to **page 1-6** for my analysis
